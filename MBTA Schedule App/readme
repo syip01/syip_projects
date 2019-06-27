@@ -1,1 +1,4 @@
-Read description
+This app was designed in response the Quincy College Computer Club Code-A-Thon in 2018.
+It was designed in VB.NET and compiled with VS2015.
+MBTA v3 API was used to gather transit data for the app.
+Source code included.
