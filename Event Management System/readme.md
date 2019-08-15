@@ -28,7 +28,7 @@ javax.servlet, jstl (1.2)
 org.mariadb.jdbc, mariadb-java-client (2.4.3)  
 org.hibernate.validator, hibernate-validator (6.0.17.Final)  
 
-Database Schema (also in sql folder:
+Database Schema (also in sql folder):
 
 https://dbdesigner.page.link/WddwGkK95p4Dwcru5
 
