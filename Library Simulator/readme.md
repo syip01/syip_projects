@@ -8,7 +8,7 @@ Some readers have a greater priority than others and will be dealt with first.
 Readers that do not get all their books will have their priority increased per day until they receive all of their books.  
 The library has books that any person can obtain, however there may be limited copies for a particular book.
 
-This program was written with VS2015 in C++.  
+This program was written with VS2017 in C++.  
 Elements implemented/required in the final project:  
 Dynamic Array (Hashtable)  
 Linked List (Priority Queue)  
